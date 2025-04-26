@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/MaiM-with-u/MaiBot/">
-    <img src="depends-data/maimai.png" alt="Logo" width="200">
+    <img src="lcy-ys.top/upload/maimai.png" alt="Logo" width="200">
   </a>
   <br />
   <a href="https://space.bilibili.com/1344099355">
@@ -53,7 +53,7 @@
 
 <div align="center">
 <a href="https://www.bilibili.com/video/BV1amAneGE3P" target="_blank">
-    <img src="depends-data/video.png" width="200" alt="麦麦演示视频">
+    <img src="lcy-ys.top/upload/video.png" width="200" alt="麦麦演示视频">
     <br>
     👆 点击观看麦麦演示视频 👆
 </a>
